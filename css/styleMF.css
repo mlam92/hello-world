@@ -29,12 +29,14 @@ p{
 	}
 	
 	nav{
-		display: block;
+		display: none;
 	}
 	
 	body{
 		background-color: green;
 	}
+	
+	
 	
 
 } 
